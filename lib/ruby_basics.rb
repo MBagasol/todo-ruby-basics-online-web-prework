@@ -24,6 +24,7 @@ def last_evaluated_value(skill="expert")
   skill
 end
 
-def pizza_party
-
+def pizza_party(topping="cheese")
+  puts topping
+  topping
 end
