@@ -19,8 +19,9 @@ def return_a_value(phrase="Nice")
   phrase
 end
 
-def last_evaluated_value
-
+def last_evaluated_value(skill="expert")
+  puts skill
+  skill
 end
 
 def pizza_party
